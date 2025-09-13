@@ -1,7 +1,7 @@
 import { useState, useEffect } from "react";
 import { Header } from "./components/Header";
 import { Tabs } from "./components/Tabs";
-import { TodoInput } from "./components/Todoinput";
+import { TodoInput } from "./components/TodoInput";
 import { TodoList } from "./components/TodoList";
 
 
